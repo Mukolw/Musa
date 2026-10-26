@@ -3,7 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "homepage": "https://<Mukolw>.github.io/<Musa>",
+  "homepage": "https://mukolw.github.io/Musa",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
