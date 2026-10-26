@@ -43,7 +43,7 @@ const profile = {
   address: "Imara Daima, Nairobi, Kenya",
   phone: "+254 724 995254",
   phoneDisplay: "+254 724 995254",
-  email: "sales@example.com",
+  email: "mchisira@gmail.com",
   whatsapp: "254 724 995254",
 
   hours: [
